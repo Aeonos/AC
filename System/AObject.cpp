@@ -8,6 +8,9 @@
 namespace AC{
 namespace System{
 
+AObject::AObject(){}
+AObject::~AObject(){}
+
 }
 }
 

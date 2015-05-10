@@ -2,7 +2,6 @@
 #define AC_SYSTEM_STRING
 
 #include <string>
-
 #include "String.h"
 
 namespace AC{

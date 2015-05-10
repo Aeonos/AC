@@ -1,8 +1,6 @@
 namespace AC{
 namespace System{
-
-class String: public AObject{
-  private:
+class String: public AC::System::AObject{
   public:
     String();
     String(const char* c_String);
@@ -17,5 +15,4 @@ class String: public AObject{
   protected:
     std::string _Primitive;
 };
-
 }}
