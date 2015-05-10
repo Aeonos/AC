@@ -1,0 +1,18 @@
+# depslib dependency file v1.0
+1431214473 source:/home/christian/Programming/AC++/samples/sample01.cpp
+	"../ac.h"
+
+1431214737 /home/christian/Programming/AC++/ac.h
+	"System/System.h"
+
+1431214708 /home/christian/Programming/AC++/System/System.h
+	"Object.cpp"
+
+1431214645 /home/christian/Programming/AC++/System/Object.cpp
+	"Object.h"
+
+1431214885 /home/christian/Programming/AC++/System/Object.h
+
+1431214645 source:/home/christian/Programming/AC++/System/Object.cpp
+	"Object.h"
+

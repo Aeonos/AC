@@ -31,6 +31,13 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
+		<Unit filename="AC.h" />
+		<Unit filename="System/Object.cpp" />
+		<Unit filename="System/Object.h" />
+		<Unit filename="System/System.h" />
+		<Unit filename="samples/sample01.cpp">
+			<Option target="Debug" />
+		</Unit>
 		<Extensions>
 			<code_completion />
 			<debugger />
