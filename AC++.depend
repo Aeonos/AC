@@ -1,18 +1,40 @@
 # depslib dependency file v1.0
-1431214473 source:/home/christian/Programming/AC++/samples/sample01.cpp
-	"../ac.h"
+1431246575 source:/home/christian/Programming/AC++/samples/sample01.cpp
+	"../AC.h"
 
 1431214737 /home/christian/Programming/AC++/ac.h
 	"System/System.h"
 
-1431214708 /home/christian/Programming/AC++/System/System.h
-	"Object.cpp"
+1431247906 /home/christian/Programming/AC++/System/System.h
+	"AObject.cpp"
+	"String.cpp"
 
-1431214645 /home/christian/Programming/AC++/System/Object.cpp
+1431246185 /home/christian/Programming/AC++/System/Object.cpp
+	<string>
 	"Object.h"
 
-1431214885 /home/christian/Programming/AC++/System/Object.h
+1431246276 /home/christian/Programming/AC++/System/Object.h
 
-1431214645 source:/home/christian/Programming/AC++/System/Object.cpp
+1431246185 source:/home/christian/Programming/AC++/System/Object.cpp
+	<string>
 	"Object.h"
+
+1431247896 /home/christian/Programming/AC++/AC.h
+	"System/System.h"
+
+1431246678 /home/christian/Programming/AC++/System/AObject.cpp
+	<string>
+	"AObject.h"
+
+1431248648 /home/christian/Programming/AC++/System/AObject.h
+
+1431248963 /home/christian/Programming/AC++/System/String.cpp
+	<string>
+	"String.h"
+
+1431248767 /home/christian/Programming/AC++/System/String.h
+
+1431246678 source:/home/christian/Programming/AC++/System/AObject.cpp
+	<string>
+	"AObject.h"
 

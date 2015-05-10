@@ -6,6 +6,8 @@ namespace AC{
   }
 }
 
-#include "Object.cpp"
+#include "AObject.cpp"
+#include "String.cpp"
+
 
 #endif
