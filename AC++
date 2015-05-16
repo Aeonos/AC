@@ -23,14 +23,14 @@ long_line_behaviour=1
 long_line_column=72
 
 [files]
-current_page=6
-FILE_NAME_0=131;C;0;EUTF-8;1;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FAC.h;0;4
-FILE_NAME_1=181;C++;0;EUTF-8;1;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FSystem%2FAObject.cpp;0;4
-FILE_NAME_2=0;C;0;EUTF-8;1;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FSystem%2FAObject.h;0;4
-FILE_NAME_3=69;C++;0;EUTF-8;1;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FSystem%2FString.cpp;0;4
-FILE_NAME_4=362;C;0;EUTF-8;1;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FSystem%2FString.h;0;4
-FILE_NAME_5=101;C;0;EUTF-8;1;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FSystem%2FSystem.h;0;4
-FILE_NAME_6=203;C++;0;EUTF-8;1;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2Fsamples%2Fsample01.cpp;0;4
+current_page=4
+FILE_NAME_0=131;C;0;EUTF-8;0;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FAC.h;0;2
+FILE_NAME_1=181;C++;0;EUTF-8;0;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FSystem%2FAObject.cpp;0;2
+FILE_NAME_2=0;C;0;EUTF-8;0;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FSystem%2FAObject.h;0;2
+FILE_NAME_3=69;C++;0;EUTF-8;0;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FSystem%2FString.cpp;0;2
+FILE_NAME_4=145;C;0;EUTF-8;0;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FSystem%2FString.h;0;2
+FILE_NAME_5=101;C;0;EUTF-8;0;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2FSystem%2FSystem.h;0;2
+FILE_NAME_6=200;C++;0;EUTF-8;0;1;0;%2Fhome%2Fchristian%2FProgramming%2FAC%2B%2B%2Fsamples%2Fsample01.cpp;0;2
 
 [VTE]
 last_dir=/home/christian/Programming/AC++/samples

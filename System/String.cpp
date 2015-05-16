@@ -8,6 +8,8 @@ namespace AC{
 namespace System{
 
 String::String():AObject(), _Primitive(""){}
+String::String(double Value):AObject(), _Primitive(std::to_string(Value)){}
+String::String(int Value):AObject(), _Primitve(std::to_string(Value)){}
 String::String(const char* c_String):AObject(), _Primitive(c_String){}
 String::String(const std::string& stdString):AObject(), _Primitive(stdString){}
 String::String(const String & other):AObject(), _Primitive(other._Primitive){}
