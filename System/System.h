@@ -8,6 +8,7 @@ namespace AC{
 
 #include "AObject.cpp"
 #include "String.cpp"
+#include "Time.cpp"
 
 
 #endif
