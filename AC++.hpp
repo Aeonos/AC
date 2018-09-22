@@ -11,4 +11,4 @@ namespace AC{
 
 #include "System/System.h"
 
-#endif
+#endif // AC_FRAMEWORK

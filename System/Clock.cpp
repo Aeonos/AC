@@ -1,6 +1,3 @@
-#ifndef AC_SYSTEM_CLOCK
-#define AC_SYSTEM_CLOCK
-
 
 #include <iostream>
 #include <string>
@@ -45,4 +42,3 @@ friend std::ostream& operator<<(std::ostream& out, const Clock& rhs){
 }
   
 }}
-#endif

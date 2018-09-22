@@ -1,5 +1,3 @@
-#ifndef AC_SYSTEM_STRING
-#define AC_SYSTEM_STRING
 
 #include <string>
 #include <sstream>
@@ -61,4 +59,3 @@ String String::FromNumber(double Value){
 
 }}
 
-#endif

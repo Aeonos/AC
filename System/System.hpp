@@ -6,10 +6,10 @@ namespace AC{
   }
 }
 
-#include "AObject.cpp"
-#include "String.cpp"
-#include "Time.cpp"
-#include "Clock.cpp"
+#include "Object.hpp"
+#include "String.hpp"
+#include "Time.hpp"
+#include "Clock.hpp"
 
 
 #endif

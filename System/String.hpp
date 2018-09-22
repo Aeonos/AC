@@ -1,6 +1,13 @@
+#ifndef AC_SYSTEM_STRING
+#define AC_SYSTEM_STRING
+
+#include <string>
+
+#include "Object.hpp"
+
 namespace AC{
 namespace System{
-class String: public AC::System::AObject{
+class String: public AC::System::Object{
   private:
     std::string _FromNumber(int Value);
     std::string _FromNumber(double Value);
@@ -34,3 +41,5 @@ class String: public AC::System::AObject{
     std::string _Primitive;
 };
 }}
+
+#endif //AC_SYSTEM_STRING

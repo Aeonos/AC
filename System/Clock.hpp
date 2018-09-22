@@ -1,6 +1,11 @@
+#ifndef AC_SYSTEM_CLOCK
+#define AC_SYSTEM_CLOCK
+
+#include <string>
+
 namespace AC{
 namespace System{
-  class Clock: public AObject{
+  class Clock: public Object{
   private:
   public:
     Clock();
@@ -27,3 +32,5 @@ namespace System{
     std::chrono::time_point<std::chrono::high_resolution_clock> _Stop;
   };
 }}
+
+#endif
